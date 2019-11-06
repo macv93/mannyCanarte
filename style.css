@@ -3,16 +3,6 @@ html{
 }
 
 
-
-.sidebar{
-    grid-area: sidebar;
-    background: linear-gradient(to right,
-    rgba(65,182,230,1),
-    rgba(218,103,230,1),
-    rgba(219,62,177,1));
-    justify-content: center;
-}
-
 .container{
     font-size: 1.5em;
     width: 100%;
@@ -32,6 +22,7 @@ html{
 footer{
     padding: 1em;
 }
+
 
 nav ul{
     margin: 0;
@@ -98,8 +89,8 @@ nav li a:hover{
 }
 
 footer {
-    max-width: 640px;
-    margin: 2em auto;
+    width: 60%;
+    margin: 0 auto;
     padding: 0;
     text-align: center;
     display: flex;
@@ -108,6 +99,11 @@ footer {
 
 }
 
+img{
+    max-width:100%;
+    height:auto;
+    border:5px solid rgba(218,103,230,1);
+}
 
 
 .bottom ul {
@@ -130,6 +126,7 @@ footer {
 
 footer{
     font-size: 0.8em;
+    
     color: gray;
 }
 
