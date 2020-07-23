@@ -7,4 +7,4 @@ I wanted to showcase and practice with basic HTML and CSS
 - CSS
 
 # Live Page
-https://macv93.github.io/personalPage/
+[Welcome to my page!](https://macv93.github.io/mannyCanarte/)
